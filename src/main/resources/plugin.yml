@@ -1,0 +1,7 @@
+name: FileAPI
+version: '${project.version}'
+main: fr.gregderiz.fileapi.FilePlugin
+api-version: '1.20'
+load: STARTUP
+authors: [GregDeRiz]
+description: A plugin that manage files on the server
