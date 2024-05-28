@@ -6,17 +6,15 @@
 
   <groupId>fr.gregderiz</groupId>
   <artifactId>FileAPI</artifactId>
-  <version>0.2</version>
+  <version>0.4</version>
   <packaging>jar</packaging>
 
   <name>FileAPI</name>
 
     <description>A plugin that manage files on the server</description>
     <properties>
-    <java.version>11</java.version>
+    <java.version>1.8</java.version>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <maven.compiler.source>11</maven.compiler.source>
-        <maven.compiler.target>11</maven.compiler.target>
   </properties>
 
   <build>
